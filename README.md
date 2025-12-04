@@ -6,7 +6,9 @@ Step 2:
 run the following commands in terminal while in root folder:
 
 (venv) abhaydeepsingh@Abhays-MacBook-Air MLProject % **python3 -m venv venv**
+
 (venv) abhaydeepsingh@Abhays-MacBook-Air MLProject % **source venv/bin/activate**
+
 (venv) abhaydeepsingh@Abhays-MacBook-Air MLProject % **pip install pandas numpy scikit-learn imbalanced-learn**
 
 Step 3:
