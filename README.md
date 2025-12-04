@@ -29,5 +29,5 @@ python3 run_spam_detection.py      (or python run_spam_detection.py)
 
 This will give you the resulting spam text file classifying into spam or ham and will also print out accuracy metrics in the terminal
 
--End-
+That is all.
 
